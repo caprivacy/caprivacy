@@ -23,3 +23,6 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Spectrum-TimeWarnerCable](https://www.spectrum.com/policies/your-privacy-rights-opt-out)
 * [Uber](https://privacy.uber.com/privacy/california?_ga=2.142944181.1860030681.1577912633-847964320.1577912633)
 * [XFinity](https://pc2.mypreferences.com/Comcast/Opt-Out/AffiliateSharing)
+
+# Updating
+Please send a pull request! Very simple. Changes will be merged in and updated.
