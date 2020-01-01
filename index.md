@@ -1,0 +1,2 @@
+# California Privacy Directory
+## Categories
