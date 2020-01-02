@@ -68,6 +68,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Sprint](https://www.sprint.com/en/ccpaportal/california-consumer-privacy-act.html)
 * [SutterHealth](https://www.sutterhealth.org/privacy/privacy-request)
 * [T-Mobile](https://www.t-mobile.com/privacy-center/take-control-of-your-data)
+* [Target](https://www.target.com/do-not-sell-ca)
 * [Ticketmaster](https://app.onetrust.com/app/#/webform/a912475c-660e-40a7-b320-844ea439062a)
 * [TransUnion](https://www.transunion.com/consumer-privacy)
 * [Uber](https://privacy.uber.com/privacy/california)
