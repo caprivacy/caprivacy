@@ -29,6 +29,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Cedars-Sinai](https://www.cedars-sinai.org/privacy-policy.html)
 * [Chase](https://www.chase.com/digital/resources/privacy-security/privacy/ca-consumer-privacy-act/ccpa-request)
 * [Chipotle](https://www.chipotle.com/donotsell)
+* [Costco](https://www.costco.com/DNSMIView)
 * [Cox Communications](https://www.cox.com/aboutus/policies/ccpa.html)
 * [CreditKarma](https://www.creditkarma.com/about/privacy-ca-20200101)
 * [Cricket](https://www.cricketwireless.com/privacy)
