@@ -46,8 +46,10 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Kaiser Permanente](https://healthy.kaiserpermanente.org/privacy) (bottom)
 * [LA Fitness](https://privacyrights.fitnessintl.com/)
 * [LexisNexis](https://risk.lexisnexis.com/ccpa)
+* [LG](https://www.lg.com/us/privacy)
 * [Lyft](https://www.lyft.com/privacy)
 * [Netflix](https://help.netflix.com/legal/privacy#ccpa)
+* [Nintendo](https://www.nintendo.com/privacy-request/)
 * [Paypal](https://www.paypal.com/us/smarthelp/contact-us?email=privacy)
 * [Peloton](https://www.onepeloton.com/california-privacy-notice)
 * [Petco](https://dsar.oncentrl.com/petco_rightsrequest.html)
@@ -67,8 +69,8 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Uber](https://privacy.uber.com/privacy/california)
 * [Verizon](https://www.verizonwireless.com/support/ccpa-faqs/)
 * [Vizio](https://www.vizio.com/en/terms/privacy-policy)
+* [Walmart](https://corporate.walmart.com/privacy-security/california-privacy-rights)
 * [Wayfair](https://www.wayfair.com/customerservice/general_info.php)
-* 
 * [Wells Fargo](https://www.wellsfargo.com/privacy-security/privacy/california-consumer-privacy-notice/)
 * [XFinity](https://pc2.mypreferences.com/Comcast/Opt-Out/AffiliateSharing)
 
