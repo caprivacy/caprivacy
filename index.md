@@ -61,6 +61,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [LA Fitness](https://privacyrights.fitnessintl.com/)
 * [LexisNexis](https://risk.lexisnexis.com/ccpa)
 * [LG](https://www.lg.com/us/privacy)
+* [LiveNation](https://privacyportal-cdn.onetrust.com/dsarwebform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/b3c0feda-599b-43d9-ae70-2e33b14b3b6b.html)
 * [Lyft](https://www.lyft.com/privacy)
 * [Marriott](https://privacyportal-cdn.onetrust.com/dsarwebform/0894cd2c-85ba-4d0b-8ec1-e18f3735e0e0/6a56958d-33d0-40a7-82d4-9859be6f1f82.html)
 * [Netflix](https://help.netflix.com/legal/privacy#ccpa)
