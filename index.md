@@ -59,6 +59,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Samsung](https://www.samsung.com/us/privacy/ccpa/)
 * [SCE Southern California Edison](https://www.sce.com/california-consumer-privacy-act-information-request)
 * [Sempra Energy](https://www.sempra.com/privacy#tab-2262)
+* [Simple](https://www.simple.com/policies/simple-privacy-policy)
 * [Sony Pictures](https://secure.sonypictures.com/corp/contactus.html)
 * [Southwest Airlines](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_CustomerContact)
 * [Spectrum-TimeWarnerCable](https://www.spectrum.com/policies/your-privacy-rights-opt-out)
