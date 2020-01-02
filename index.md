@@ -46,6 +46,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [LA Fitness](https://privacyrights.fitnessintl.com/)
 * [LexisNexis](https://risk.lexisnexis.com/ccpa)
 * [Lyft](https://www.lyft.com/privacy)
+* [Netflix](https://help.netflix.com/legal/privacy#ccpa)
 * [Paypal](https://www.paypal.com/us/smarthelp/contact-us?email=privacy)
 * [Peloton](https://www.onepeloton.com/california-privacy-notice)
 * [Petco](https://dsar.oncentrl.com/petco_rightsrequest.html)
