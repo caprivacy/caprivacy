@@ -53,6 +53,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [G/O Media (i.e., Gizmodo, etc..)](https://g-omedia.com/privacy-policy/)
 * [Hertz](https://pub.emails.hertz.com/californiaprivacyrights)
 * [Home Depot](https://www.homedepot.com/c/Exercise_My_Privacy_Rights)
+* [Homeowners Marketing Services](https://freshmailinglists.com/support-help/mailing-list-removal-request)
 * [Hulu](https://www.hulu.com/do-not-sell-my-info)
 * [Hyatt](https://privacyportal-cdn.onetrust.com/dsarwebform/9c6a75e1-7924-4576-b3ba-d5ec88c9ad5e/99cb394e-9038-4c9a-81e4-285f5688f5e8.html)
 * [Intel](https://www.intel.com/content/www/us/en/privacy/privacy-ccpa-california.html)
