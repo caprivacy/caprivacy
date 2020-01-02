@@ -57,6 +57,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Ralphs](https://www.ralphs.com/i/privacy-policy/rights-and-choices)
 * [Roku](https://privacy.roku.com/ccpa)
 * [Samsung](https://www.samsung.com/us/privacy/ccpa/)
+* [SCE Southern California Edison](https://www.sce.com/california-consumer-privacy-act-information-request)
 * [Sempra Energy](https://www.sempra.com/privacy#tab-2262)
 * [Sony Pictures](https://secure.sonypictures.com/corp/contactus.html)
 * [Southwest Airlines](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_CustomerContact)
