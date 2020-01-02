@@ -32,6 +32,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Cricket](https://www.cricketwireless.com/privacy)
 * [Disney](https://privacy.thewaltdisneycompany.com/en/dnsmi/)
 * [Delta](https://www.delta.com/us/en/legal/privacy-and-security)
+* [DoorDash](https://help.doordash.com/consumers/s/privacy-policy-us?language=en_US)
 * [Enterprise](https://enterpriseprivacy.ethicspointvp.com/custom/enterpriseprivacy/forms/privacy/form_data.asp?lang=en)
 * [Equifax](https://myprivacy.equifax.com/personal-info)
 * [Equinox](https://www.equinox.com/privacyrequest)
