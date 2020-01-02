@@ -41,7 +41,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Disney](https://privacy.thewaltdisneycompany.com/en/dnsmi/)
 * [Delta](https://www.delta.com/us/en/legal/privacy-and-security)
 * [Disney](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/)
-* [Earn](https://www.earnwithdrop.com/privacy#california)
+* [Drop](https://www.earnwithdrop.com/privacy#california)
 * [Enterprise](https://enterpriseprivacy.ethicspointvp.com/custom/enterpriseprivacy/forms/privacy/form_data.asp?lang=en)
 * [Equifax](https://myprivacy.equifax.com/personal-info)
 * [Equinox](https://www.equinox.com/privacyrequest)
