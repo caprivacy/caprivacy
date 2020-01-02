@@ -18,6 +18,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Alaska Airlines](https://privacyportal-cdn.onetrust.com/dsarwebform/7a066a1e-5ec0-4f03-ba72-9ee06ba6e1d3/2d92e0a3-b352-421c-9481-1ea9f187fc27.html)
 * [AMD](https://www.amd.com/en/corporate/privacy#faq-Your-California-Privacy-Notice-and-Rights)
 * [AT&T](https://www.att.com/cmp/ccpa/dnsatt)
+* [Avis/Budget](https://privacyportal-cdn.onetrust.com/dsarwebform/3049dc52-d1d0-4f29-98a6-716dc298f06f/db26e683-0e64-4e8a-93fa-943ab693d0f2.html)
 * [Bank of America](https://www.bankofamerica.com/security-center/consumer-privacy-notice/)
 * [Blizzard](https://www.blizzard.com/en-us/legal/a97631bf-2b21-4755-a740-5934bd5cb632/do-not-sell-my-personal-information)
 * [Cedars-Sinai](https://www.cedars-sinai.org/privacy-policy.html)
