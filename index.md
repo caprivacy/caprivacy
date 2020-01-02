@@ -43,6 +43,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Equifax](https://myprivacy.equifax.com/personal-info)
 * [Equinox](https://www.equinox.com/privacyrequest)
 * [Experian](https://www.experian.com/privacy/ccpa-privacy-policy.html)
+* [Facebook](https://www.facebook.com/help/contact/784491318687824)
 * [Ford](http://www.ford.com/help/privacy/ccpa)
 * [Frontier Airlines](https://privacyportal-cdn.onetrust.com/dsarwebform/d05efb49-8659-41c8-a149-06569bb9429f/b1553c03-92ee-47cc-a026-4b191092dcf2.html)
 * [General Motors](https://www.gm.com/consumer-privacy.html)
