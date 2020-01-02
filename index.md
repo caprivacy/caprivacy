@@ -70,6 +70,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [T-Mobile](https://www.t-mobile.com/privacy-center/take-control-of-your-data)
 * [Target](https://www.target.com/do-not-sell-ca)
 * [Ticketmaster](https://app.onetrust.com/app/#/webform/a912475c-660e-40a7-b320-844ea439062a)
+* [Total Wine](https://privacyportal-cdn.onetrust.com/dsarwebform/e8e8c9e2-21a8-4ddb-9a65-ea588ce288e7/d9869c13-df6f-4e17-bd93-828f47dc9e79.html)
 * [TransUnion](https://www.transunion.com/consumer-privacy)
 * [Uber](https://privacy.uber.com/privacy/california)
 * [Verizon](https://www.verizonwireless.com/support/ccpa-faqs/)
