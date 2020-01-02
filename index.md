@@ -13,6 +13,8 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 
 # Directory
 * [24Hour Fitness](https://www.24hourfitness.com/membership/inclub_privacy_policy.html) (bottom)
+* [Acxiom](https://isapps.acxiom.com/optout/optout.aspx)
+* [Advantage Solutions](https://privacyportal-cdn.onetrust.com/dsarwebform/d6cba5fa-4e44-47b7-8e91-8f217ac30350/c81e9b88-7ed7-41cf-b6bc-7d2c781f93b9.html)
 * [Apple](https://www.apple.com/legal/privacy/california/)
 * [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GC5HB5DVMU5Y8CJ2)
 * [American Airlines](https://www.aa.com/i18n/customer-service/support/privacy-policy.jsp) (bottom)
