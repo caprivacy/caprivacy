@@ -127,7 +127,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Wayfair](https://www.wayfair.com/customerservice/general_info.php)
 * [Wells Fargo](https://www.wellsfargo.com/privacy-security/privacy/california-consumer-privacy-notice/)
 * [Wholefoods](https://www.wholefoodsmarket.com/customer-service/contact-us) (Topic->California Consumer Rights Request)
-* [XFinity](https://pc2.mypreferences.com/Comcast/Opt-Out/AffiliateSharing)
+* [Xfinity](https://www.xfinity.com/privacy/requests) ([Do Not Sell My Info](https://www.xfinity.com/privacy/manage-preference)
 * [Yahoo](https://yahoo.mydashboard.oath.com/)
 
 # Updating
