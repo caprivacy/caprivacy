@@ -42,6 +42,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Frontier Airlines](https://privacyportal-cdn.onetrust.com/dsarwebform/d05efb49-8659-41c8-a149-06569bb9429f/b1553c03-92ee-47cc-a026-4b191092dcf2.html)
 * [General Motors](https://www.gm.com/consumer-privacy.html)
 * [Hertz](https://pub.emails.hertz.com/californiaprivacyrights)
+* [Home Depot](https://www.homedepot.com/c/Exercise_My_Privacy_Rights)
 * [Hyatt](https://privacyportal-cdn.onetrust.com/dsarwebform/9c6a75e1-7924-4576-b3ba-d5ec88c9ad5e/99cb394e-9038-4c9a-81e4-285f5688f5e8.html)
 * [Intel](https://www.intel.com/content/www/us/en/privacy/privacy-ccpa-california.html)
 * [Jet](https://jet.com/privacy-notice)
