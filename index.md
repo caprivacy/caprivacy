@@ -14,7 +14,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 # Directory
 * [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GC5HB5DVMU5Y8CJ2)
 * [AT&T](https://www.att.com/cmp/ccpa/dnsatt)
-* [Bank of America](https://www.wellsfargo.com/privacy-security/privacy/california-consumer-privacy-notice/)
+* [Bank of America](https://www.bankofamerica.com/security-center/consumer-privacy-notice/)
 * [Blizzard](https://www.blizzard.com/en-us/legal/a97631bf-2b21-4755-a740-5934bd5cb632/do-not-sell-my-personal-information)
 * [Chase](https://www.chase.com/digital/resources/privacy-security/privacy/ca-consumer-privacy-act/ccpa-request)
 * [CreditKarma](https://www.creditkarma.com/about/privacy-ca-20200101)
