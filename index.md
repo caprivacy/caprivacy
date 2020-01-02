@@ -9,10 +9,12 @@ Under AB-375 California Residents have the right to
 5. Request businesses to delete all personal information collected about the consumer.
 6. Not discriminate in service for exercising their privacy rights under it.
 
-The following is an alphabetical ordered list of companies and URLs to perform a Data Subject Access Request (DSAR) and exercise your rights under this law
+The following is an alphabetical ordered list of companies and URLs to perform a Data Subject Access Request (DSAR) and exercise your rights under this law. 
 
 # Directory
 * [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GC5HB5DVMU5Y8CJ2)
+* [American Airlines](https://www.aa.com/i18n/customer-service/support/privacy-policy.jsp) (bottom)
+* [Alaska Airlines](https://privacyportal-cdn.onetrust.com/dsarwebform/7a066a1e-5ec0-4f03-ba72-9ee06ba6e1d3/2d92e0a3-b352-421c-9481-1ea9f187fc27.html)
 * [AMD](https://www.amd.com/en/corporate/privacy#faq-Your-California-Privacy-Notice-and-Rights)
 * [AT&T](https://www.att.com/cmp/ccpa/dnsatt)
 * [Bank of America](https://www.bankofamerica.com/security-center/consumer-privacy-notice/)
@@ -22,18 +24,22 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [CreditKarma](https://www.creditkarma.com/about/privacy-ca-20200101)
 * [Cricket](https://www.cricketwireless.com/privacy)
 * [Disney](https://privacy.thewaltdisneycompany.com/en/dnsmi/)
+* [Delta](https://www.delta.com/us/en/legal/privacy-and-security)
 * [Equifax](https://myprivacy.equifax.com/personal-info)
 * [Experian](https://www.experian.com/privacy/ccpa-privacy-policy.html)
+* [Frontier Airlines](https://privacyportal-cdn.onetrust.com/dsarwebform/d05efb49-8659-41c8-a149-06569bb9429f/b1553c03-92ee-47cc-a026-4b191092dcf2.html)
 * [Hyatt](https://privacyportal-cdn.onetrust.com/dsarwebform/9c6a75e1-7924-4576-b3ba-d5ec88c9ad5e/99cb394e-9038-4c9a-81e4-285f5688f5e8.html)
 * [Intel](https://www.intel.com/content/www/us/en/privacy/privacy-ccpa-california.html)
 * [Kaiser Permanente](https://healthy.kaiserpermanente.org/privacy) (bottom)
 * [LexisNexis](https://risk.lexisnexis.com/ccpa)
 * [Lyft](https://www.lyft.com/privacy)
 * [Peloton](https://www.onepeloton.com/california-privacy-notice)
+* [Petco](https://dsar.oncentrl.com/petco_rightsrequest.html)
 * [Pinterest](https://policy.pinterest.com/en/privacy-policy)
 * [Ralphs](https://www.ralphs.com/i/privacy-policy/rights-and-choices)
 * [Roku](https://privacy.roku.com/ccpa)
 * [Samsung](https://www.samsung.com/us/privacy/ccpa/)
+* [Southwest Airlines](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_CustomerContact)
 * [Spectrum-TimeWarnerCable](https://www.spectrum.com/policies/your-privacy-rights-opt-out)
 * [Sprint](https://www.sprint.com/en/ccpaportal/california-consumer-privacy-act.html)
 * [SutterHealth](https://www.sutterhealth.org/privacy/privacy-request)
