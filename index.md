@@ -1,1 +1,1 @@
-caPrivacy Repository moved to [https://caprivacy.me](caprivacy.me)
+caPrivacy Repository moved to [caprivacy.me](https://caprivacy.me)
