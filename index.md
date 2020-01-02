@@ -24,7 +24,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [AMD](https://www.amd.com/en/corporate/privacy#faq-Your-California-Privacy-Notice-and-Rights)
 * [AT&T](https://www.att.com/cmp/ccpa/dnsatt)
 * [Avis/Budget](https://privacyportal-cdn.onetrust.com/dsarwebform/3049dc52-d1d0-4f29-98a6-716dc298f06f/db26e683-0e64-4e8a-93fa-943ab693d0f2.html)
-* [Bank of America](https://www.bankofamerica.com/security-center/consumer-privacy-notice/)
+* [Bank of America](https://www.bankofamerica.com/security-center/ccpa-disclosure/)
 * [Baskin Robbins](https://www.baskinrobbins.com/en/consumer-rights)
 * [Best Buy](https://www.bestbuy.com/site/privacy-policy/california-privacy-rights/pcmcat204400050063.c)
 * [Bevmo](https://www.bevmo.com/privacy-policy/ccpa-submission)
