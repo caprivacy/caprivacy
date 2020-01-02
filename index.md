@@ -75,4 +75,5 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [XFinity](https://pc2.mypreferences.com/Comcast/Opt-Out/AffiliateSharing)
 
 # Updating
-Please send a pull request! Very simple. Changes will be merged in and updated.
+Prefer direct links to the California section or form and just send a pull request!
+Changes will be merged in and updated.
