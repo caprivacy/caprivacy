@@ -66,6 +66,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Southwest Airlines](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_CustomerContact)
 * [Spectrum-TimeWarnerCable](https://www.spectrum.com/policies/your-privacy-rights-opt-out)
 * [Sprint](https://www.sprint.com/en/ccpaportal/california-consumer-privacy-act.html)
+* [Staples](https://submit-irm.trustarc.com/services/validation/2394f394-3df4-4051-bfa1-50c2cfa45f02)
 * [SutterHealth](https://www.sutterhealth.org/privacy/privacy-request)
 * [T-Mobile](https://www.t-mobile.com/privacy-center/take-control-of-your-data)
 * [Target](https://www.target.com/do-not-sell-ca)
