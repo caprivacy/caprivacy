@@ -24,6 +24,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Avis/Budget](https://privacyportal-cdn.onetrust.com/dsarwebform/3049dc52-d1d0-4f29-98a6-716dc298f06f/db26e683-0e64-4e8a-93fa-943ab693d0f2.html)
 * [Bank of America](https://www.bankofamerica.com/security-center/consumer-privacy-notice/)
 * [Best Buy](https://www.bestbuy.com/site/privacy-policy/california-privacy-rights/pcmcat204400050063.c)
+* [Bevmo](https://www.bevmo.com/privacy-policy/ccpa-submission)
 * [Blizzard](https://www.blizzard.com/en-us/legal/a97631bf-2b21-4755-a740-5934bd5cb632/do-not-sell-my-personal-information)
 * [Cedars-Sinai](https://www.cedars-sinai.org/privacy-policy.html)
 * [Chase](https://www.chase.com/digital/resources/privacy-security/privacy/ca-consumer-privacy-act/ccpa-request)
