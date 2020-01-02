@@ -27,6 +27,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Blizzard](https://www.blizzard.com/en-us/legal/a97631bf-2b21-4755-a740-5934bd5cb632/do-not-sell-my-personal-information)
 * [Cedars-Sinai](https://www.cedars-sinai.org/privacy-policy.html)
 * [Chase](https://www.chase.com/digital/resources/privacy-security/privacy/ca-consumer-privacy-act/ccpa-request)
+* [Cox Communications](https://www.cox.com/aboutus/policies/ccpa.html)
 * [CreditKarma](https://www.creditkarma.com/about/privacy-ca-20200101)
 * [Cricket](https://www.cricketwireless.com/privacy)
 * [Disney](https://privacy.thewaltdisneycompany.com/en/dnsmi/)
