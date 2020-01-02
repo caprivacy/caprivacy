@@ -62,6 +62,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Marriott](https://privacyportal-cdn.onetrust.com/dsarwebform/0894cd2c-85ba-4d0b-8ec1-e18f3735e0e0/6a56958d-33d0-40a7-82d4-9859be6f1f82.html)
 * [Netflix](https://help.netflix.com/legal/privacy#ccpa)
 * [Nintendo](https://www.nintendo.com/privacy-request/)
+* [Pacific Gas & Electric](https://pgeipaprod.service-now.com/privacy_consumer)
 * [Paypal](https://www.paypal.com/us/smarthelp/contact-us?email=privacy)
 * [Peloton](https://www.onepeloton.com/california-privacy-notice)
 * [Petco](https://dsar.oncentrl.com/petco_rightsrequest.html)
