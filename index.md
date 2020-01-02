@@ -90,7 +90,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Sony Pictures](https://secure.sonypictures.com/corp/contactus.html)
 * [Southwest Airlines](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_CustomerContact)
 * [Spectrum-TimeWarnerCable](https://www.spectrum.com/policies/your-privacy-rights-opt-out)
-* [Sprint](https://www.sprint.com/en/ccpaportal/california-consumer-privacy-act.html)
+* [Sprint](https://www.sprint.com/en/ccpaportal.html)
 * [Staples](https://submit-irm.trustarc.com/services/validation/2394f394-3df4-4051-bfa1-50c2cfa45f02)
 * [Starbucks](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html)
 * [SutterHealth](https://www.sutterhealth.org/privacy/privacy-request)
