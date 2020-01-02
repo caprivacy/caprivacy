@@ -30,6 +30,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Cox Communications](https://www.cox.com/aboutus/policies/ccpa.html)
 * [CreditKarma](https://www.creditkarma.com/about/privacy-ca-20200101)
 * [Cricket](https://www.cricketwireless.com/privacy)
+* [CVS](https://www.cvs.com/extracare/ccpa)
 * [Disney](https://privacy.thewaltdisneycompany.com/en/dnsmi/)
 * [Delta](https://www.delta.com/us/en/legal/privacy-and-security)
 * [Enterprise](https://enterpriseprivacy.ethicspointvp.com/custom/enterpriseprivacy/forms/privacy/form_data.asp?lang=en)
