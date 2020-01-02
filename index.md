@@ -58,6 +58,7 @@ The following is an alphabetical ordered list of companies and URLs to perform a
 * [Roku](https://privacy.roku.com/ccpa)
 * [Samsung](https://www.samsung.com/us/privacy/ccpa/)
 * [Sempra Energy](https://www.sempra.com/privacy#tab-2262)
+* [Simple](https://www.simple.com/policies/simple-privacy-policy)
 * [Sony Pictures](https://secure.sonypictures.com/corp/contactus.html)
 * [Southwest Airlines](https://t.iluv.southwest.com/webApp/swaAPP_DataPrivacy_CustomerContact)
 * [Spectrum-TimeWarnerCable](https://www.spectrum.com/policies/your-privacy-rights-opt-out)
