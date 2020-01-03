@@ -11,7 +11,7 @@ Under AB-375, California residents have the right to:
 
 The following is an alphabetical ordered list of companies and URLs to perform a Data Subject Access Request (DSAR) and exercise your rights under this law:
 
-# Contributing(https://github.com/caprivacy/caprivacy/blob/master/CONTRIBUTING.md)
+# [Contributing](https://github.com/caprivacy/caprivacy/blob/master/CONTRIBUTING.md)
 It is preferred that any additions to this list include links to the California section or form. To contribute, just send a pull request!
 Changes will be merged in and updated.
 
