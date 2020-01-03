@@ -1,0 +1,15 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run csv-lint
+      uses: blackstar257/docker-csvlint@master
+      env:
+        ACTION_STATE_NAME: "_data/companies.csv"
