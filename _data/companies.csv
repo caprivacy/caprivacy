@@ -89,7 +89,7 @@ name,url,comment
 "LG","https://www.lg.com/us/privacy",""
 "LiveNation","https://privacyportal-cdn.onetrust.com/dsarwebform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/b3c0feda-599b-43d9-ae70-2e33b14b3b6b.html",""
 "LinkedIn","https://www.linkedin.com/legal/california-privacy-disclosure",""
-"LoseIt","https://loseit.com/privacy/", "(^F California)"
+"LoseIt","https://loseit.com/privacy/","(^F California)"
 "Lowe's Home Improvement","https://www.lowes.com/privacyrequest",""
 "Lyft","https://www.lyft.com/privacy",""
 "Macy's","https://www.customerservice-macys.com/app/answers/detail/a_id/6617/~/california-privacy-rights",""
