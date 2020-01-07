@@ -1,5 +1,7 @@
 {% include_relative README.md %}
 
+<link rel="stylesheet" href="/css/search.css">
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
@@ -8,6 +10,7 @@
 
 <!-- Script pointing to search-script.js -->
 <script src="js/simple-jekyll-search.min.js" type="text/javascript"></script>
+
 
 <!-- Configuration -->
 <script>

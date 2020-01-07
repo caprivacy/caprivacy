@@ -1,0 +1,16 @@
+#search {
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    text-transform: none;
+    box-sizing: inherit;
+    display: block;
+    font-weight: 400;
+    padding: 0;
+    line-height: 1.2em;
+    color: rgba(0,0,0,.6);
+    font-size: 1rem;
+    position: relative;
+    text-align: left;
+    width: 60%;
+    margin: 10px auto;
+    max-width: 80%;
+}
