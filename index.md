@@ -1,6 +1,6 @@
 {% include_relative README.md %}
 
-<link rel="stylesheet" href="/css/search.css">
+<link rel="stylesheet" href="css/search.css">
 
 <!-- Html Elements for Search -->
 <div id="search-container">
