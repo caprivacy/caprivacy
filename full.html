@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div id="top-header" class="ui center aligned icon header">
+  <h2 class="ui icon header">
+    <div class="content">
+      California Privacy Directory
+    </div>
+  </h2>
+</div>
+<div class="ui active intro tab" data-tab="introduction">
+  <div class="ui main container">
+    <div class="ui padded aligned content segment">
+      <table class="ui celled striped table">
+        <thead>
+          <tr>
+            <th>Company</th>
+            <th>Website</th>
+            <th>Email</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for company in site.data.companies -%}
+          <tr>
+            <td class="collapsing">
+              {{ company.name }}
+            </td>
+            <td class="right aligned">
+              <a href="{{ company.url }}"><i class="ui linkify icon"></i></a>
+            </td>
+            <td class="right aligned">
+              <a href="{{ company.email }}"><i class="ui envelope icon"></i></a>
+            </td>
+          </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

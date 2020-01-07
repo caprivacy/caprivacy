@@ -1,0 +1,380 @@
+#search-container {
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  text-transform: none;
+  box-sizing: inherit;
+  display: block;
+  font-weight: 400;
+  padding: 0;
+  line-height: 1.2em;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 1rem;
+  position: relative;
+  text-align: left;
+  width: 60%;
+  margin: 10px auto;
+  max-width: 80%;
+}
+
+input[type="search"] {
+  -webkit-transition: all 300ms ease;
+  -moz-transition: all 300ms ease;
+  -ms-transition: all 300ms ease;
+  -o-transition: all 300ms ease;
+  transition: all 300ms ease;
+  border: 1px #e3e3e3 solid;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  display: block;
+  padding: 10px 45px;
+  width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+input[type="search"]:focus {
+  border-color: #39cccc;
+  box-shadow: 0 0 10px #39cccc;
+  outline: none;
+}
+
+div.positive,
+.ui.table td.positive {
+  background-color: rgba(46, 204, 64, 0.1) !important;
+}
+div.positive p,
+.ui.table td.positive p {
+  color: rgba(45, 135, 46, 0.91);
+}
+div.negative,
+.ui.table td.negative {
+  background-color: rgba(255, 65, 54, 0.1) !important;
+}
+div.negative p,
+.ui.table td.negative p {
+  color: rgba(195, 45, 42, 0.7);
+  margin-top: 10px;
+}
+div.progress,
+.ui.table td.progress {
+  background-color: rgba(255, 133, 27, 0.15) !important;
+}
+div.progress p,
+.ui.table td.progress p {
+  color: rgba(195, 99, 27, 0.51);
+}
+html,
+body,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+dl,
+li,
+dt,
+dd,
+p,
+blockquote,
+pre,
+form,
+fieldset,
+table,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 100%;
+  font-size: 18px;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+img {
+  border: none;
+}
+a {
+  color: #009fda;
+  text-decoration: none;
+}
+body {
+  font-family: open sans, helvetica neue, Helvetica, Arial, sans-serif;
+  color: #505050;
+  line-height: 22px;
+  background: 0 0;
+}
+p {
+  margin: 1em 0;
+}
+table thead {
+  top: 0;
+  position: sticky;
+  z-index: 1;
+}
+.website-table .left,
+.website-table .right {
+  display: inline-block;
+  height: 100%;
+  line-height: 2em;
+}
+.website-table .left {
+  width: 60%;
+}
+.website-table .left .name {
+  font-size: 22px;
+  font-weight: 300;
+}
+.website-table .left p {
+  margin-top: 10px;
+}
+.website-table .right {
+  float: right;
+  padding-left: 30px;
+  width: 40%;
+}
+.ui.inverted.teal.menu {
+  border-radius: 0;
+}
+#top-header {
+  padding: 3em 0;
+}
+#top-header .sub.header {
+  margin: 10px auto;
+  max-width: 80%;
+}
+#search-wrapper {
+  margin: 40px auto;
+  position: relative;
+  text-align: left;
+  width: 60%;
+}
+#search-wrapper label {
+  left: 17px;
+  position: absolute;
+  top: 12px;
+}
+#search-wrapper label i {
+  color: #333;
+  display: inline-block;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+input[type="search"] {
+  -webkit-transition: all 300ms ease;
+  -moz-transition: all 300ms ease;
+  -ms-transition: all 300ms ease;
+  -o-transition: all 300ms ease;
+  transition: all 300ms ease;
+  border: 1px #e3e3e3 solid;
+  border-radius: 30px;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  display: block;
+  padding: 10px 45px;
+  width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+input[type="search"]:focus {
+  border-color: #39cccc;
+  box-shadow: 0 0 10px #39cccc;
+  outline: none;
+}
+#no-results {
+  display: none;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.active-icon,
+.category h5 i:hover {
+  background-color: #39cccc;
+  color: #fff;
+}
+.active-icon + small,
+.category h5 i:hover + small {
+  color: #389b9b;
+}
+.ui.grid > .row {
+  padding: 0;
+}
+.desktop-table {
+  padding: 18px 0;
+}
+.category {
+  cursor: pointer;
+  padding-top: 20px;
+  text-align: center;
+}
+.category h5 i {
+  -webkit-transition: all 300ms ease;
+  -moz-transition: all 300ms ease;
+  -ms-transition: all 300ms ease;
+  -o-transition: all 300ms ease;
+  transition: all 300ms ease;
+}
+.ui.table td.twitter {
+  text-align: left;
+}
+.ui.table td.twitter span {
+  vertical-align: middle;
+}
+.website-table {
+  display: none;
+  margin: auto;
+  position: relative;
+  width: 90vw;
+  z-index: 1000;
+}
+.mobile-table {
+  display: none;
+}
+.mobile-table .label {
+  display: none;
+  padding: 15px 0;
+  text-align: center;
+}
+.mobile-table .jets-content {
+  border: 1px groove rgba(34, 36, 38, 0.14902);
+  border-radius: 5px;
+  margin: 0 auto 40px;
+  width: 90%;
+}
+.mobile-table .jets-content > div {
+  border-bottom: 1px groove rgba(34, 36, 38, 0.14902);
+  padding: 1em;
+}
+.mobile-table .jets-content .main .title {
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  flex-direction: row;
+  -ms-flex-direction: row;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.mobile-table .jets-content .main .title .name {
+  -webkit-box-flex: 2;
+  -ms-flex-positive: 2;
+  flex-grow: 2;
+  margin: 0 5px;
+}
+.mobile-table .jets-content .main .methods {
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  flex-direction: row;
+  -ms-flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 10px;
+}
+.mobile-table .jets-content .main .methods p {
+  margin: 5px 0;
+}
+.mobile-table .jets-content .main.positive .methods p {
+  flex-basis: 50%;
+}
+.mobile-table .jets-content .main .button-group {
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  flex-direction: row;
+  -ms-flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.mobile-table .jets-content .main .icon {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.mobile-table .jets-content .button {
+  padding: 1em;
+  width: 100%;
+}
+.mobile-table .jets-content .button i.book.icon {
+  margin-bottom: 2px;
+  vertical-align: bottom;
+}
+.mobile-table .jets-content p {
+  font-weight: 700;
+  font-size: 14px;
+}
+.ui.table td.main {
+  line-height: 2em;
+}
+.ui.table td.main .title {
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  flex-direction: row;
+  -ms-flex-direction: row;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.ui.table td.main .title .name {
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex: 1;
+  padding-left: 0;
+  line-height: 1.5;
+}
+.ui.table td.main .progress-info {
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.ui.table td.main .progress-info a {
+  width: 120px;
+  min-width: 120px;
+  padding-left: 0;
+}
+.ui.table td.icon {
+  text-align: center;
+  width: 10%;
+}
+td img.icon,
+.title img {
+  -webkit-box-shadow: 0 0 0 0.1em rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 0 0 0.1em rgba(0, 0, 0, 0.1) inset;
+  background-color: #fff;
+  border-radius: 50%;
+  float: left;
+  padding: 4px;
+  height: 2em;
+  width: 2em;
+  line-height: 1;
+  margin-right: 0.8em;
+}
+.ui.celled.table tr td.main a,
+.ui.celled.table .exception,
+.ui.celled.table .exception * {
+  padding-left: 3%;
+  vertical-align: top;
+}
+.ui.mini.button {
+  margin: 0.2em;
+}
+span.progress {
+  padding-left: 10%;
+}
+@media (max-width: 768px) {
+  .desktop-table {
+    display: none;
+  }
+}
