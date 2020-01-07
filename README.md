@@ -1,4 +1,4 @@
-# California Privacy Directory
+# California Privacy Directory [![Gitter](https://badges.gitter.im/caprivacy/community.svg)](https://gitter.im/caprivacy/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 AB-375, officially called the California Consumer Privacy Act (CCPA), is a state statute to enhance privacy rights and consumer protections for residents of the US State of California.
 Under AB-375, California residents have the right to:
 
