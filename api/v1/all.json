@@ -1,6 +1,6 @@
 ---
 ---
-[]
+[
 {%- for company in site.data.companies -%}
 {
     "name": "{{ company.name }}",
