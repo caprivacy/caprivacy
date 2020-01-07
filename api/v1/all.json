@@ -1,3 +1,5 @@
+---
+---
 {
 {% for company in site.data.companies %}
     "{{ company.name }}": "{{ company.url }}"
