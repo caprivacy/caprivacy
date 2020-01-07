@@ -14,3 +14,24 @@
     margin: 10px auto;
     max-width: 80%;
 }
+
+input[type=search] {
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+    border: 1px #e3e3e3 solid;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    display: block;
+    padding: 10px 45px;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+input[type=search]:focus {
+    border-color: #39cccc;
+    box-shadow: 0 0 10px #39cccc;
+    outline: none
+}
