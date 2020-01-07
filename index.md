@@ -14,6 +14,7 @@
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: '<div><a href="{url}"><h1>{name}</h1></a><span>{note}</span></div>',
   json: 'api/v1/all.json'
 })
 </script>
