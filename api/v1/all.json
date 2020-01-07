@@ -1,8 +1,11 @@
 ---
 ---
-{
+[]
 {%- for company in site.data.companies -%}
-    "{{ company.name }}": "{{ company.url }}"
-    {%- unless forloop.last -%},{%- endunless -%}
-{%- endfor -%}
+{
+    "name": "{{ company.name }}",
+    "url": "{{ company.url }}"
 }
+{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+]
