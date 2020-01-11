@@ -1,6 +1,5 @@
 title: California Privacy Directory
 description: A collection of links to request personal data for companies under the California Consumer Privacy Act (CCPA).
-url: http://caprivacy.me/
 repository: https://github.com/caprivacy/caprivacy
 img: img/logo.svg
 sass:
