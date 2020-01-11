@@ -1,9 +1,12 @@
 # California Privacy Directory
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/caprivacy/caprivacy/CI)
+![GitHub](https://img.shields.io/github/license/caprivacy/caprivacy)
+[![Gitter](https://badges.gitter.im/caprivacy/community.svg)](https://gitter.im/caprivacy/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 The following is an alphabetical ordered list of companies and URLs to perform a Data Subject Access Request (DSAR) and exercise your rights under this law.
 
 # Goal
-
 AB-375, officially called the California Consumer Privacy Act (CCPA), is a state statute to enhance privacy rights and consumer protections for residents of the US State of California.
 Under AB-375, California residents have the right to:
 
