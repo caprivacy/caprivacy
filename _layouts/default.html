@@ -95,6 +95,50 @@
       </svg>
     </a>
 
+    <div id="top-header" class="ui center aligned icon header">
+      <h2 class="ui icon header">
+        <img class="large bordered image" src="{{ 'img/logo.svg' | relative_url }}">
+        <div class="content">
+          California Privacy Directory
+        </div>
+      </h2>
+      <div class="sub header">
+        <div class="ui two item stackable tabs menu">
+          <a class="item" data-tab="elements" href="{{ '/' | relative_url }}">Search</a>
+          <a class="item" data-tab="collections" href="{{ '/full/' | relative_url }}">Full List</a>
+        </div>
+      </div>
+      <div id="search-wrapper" class="sub header">
+        <label for="jets-search">
+          <i class="search icon"></i>
+        </label>
+        <input type="search" id="jets-search" placeholder="Search for Companies.." autocomplete="off" spellcheck="false"
+          tabindex="0">
+        <div class="ui divided list" id="results-container"></div>
+      </div>
+      <div class="sub header">
+        <div class="ui raised very padded text container segment left aligned">
+          <p>
+            AB-375, officially called the California Consumer Privacy Act (CCPA), is a state statute to enhance privacy rights and
+            consumer protections for residents of the US State of California.
+            Under AB-375, California residents have the right to:
+            <ol>
+              <li>Know what personal data is collected about them.</li>
+              <li>Know if their personal data is sold or disclosed and to whom.</li>
+              <li>Opt-out of the sale of personal data.</li>
+              <li>Access their personal data.</li>
+              <li>Request businesses to delete all personal information collected about the consumer.</li>
+              <li>Not discriminate in service for exercising their privacy rights under it.</li>
+            </ol>
+          </p>
+        </div>
+      </div>
+    </div>
+    
+    <div id="no-results">
+      <h2>No results found</h2>
+    </div>
+
     {{ content }}
 
     <div class="ui divider"></div>
