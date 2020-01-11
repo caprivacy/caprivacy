@@ -9,12 +9,15 @@ layout: default
       California Privacy Directory
     </div>
   </h2>
-  <form>
-    <div class="sub header ui two buttons">
-      <button class="ui button" type="submit" formaction="{{ '/full/' | relative_url }}">Search</button>
-      <button class="ui button" type="submit" formaction="{{ '/' | relative_url }}">Full List</button>
+
+
+    <div class="sub header">
+      <div class="ui two item stackable tabs menu">
+        <a class="active item" data-tab="elements" href="{{ '/' | relative_url }}">Search</a>
+        <a class="item" data-tab="collections" href="{{ '/full/' | relative_url }}">Full List</a>
+      </div>
     </div>
- </form>
+
   <div id="search-wrapper" class="sub header">
     <label for="jets-search">
       <i class="search icon"></i>
