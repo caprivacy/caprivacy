@@ -10,9 +10,10 @@ layout: default
     </div>
   </h2>
   <form>
-    <button >Click me</button>
-    <button class="ui button" type="submit" formaction="{{ '/full/' | relative_url }}">Search</button>
-    <button class="ui button" type="submit" formaction="{{ '/' | relative_url }}">Full List</button>
+    <div class="ui two buttons">
+      <button class="ui button" type="submit" formaction="{{ '/full/' | relative_url }}">Search</button>
+      <button class="ui button" type="submit" formaction="{{ '/' | relative_url }}">Full List</button>
+    </div>
  </form>
   <div id="search-wrapper" class="sub header">
     <label for="jets-search">
