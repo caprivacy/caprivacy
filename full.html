@@ -1,15 +1,9 @@
 ---
-layout: default
+layout: none
 ---
 
-<div id="top-header" class="ui center aligned icon header">
-  <h2 class="ui icon header">
-    <a class="large bordered image" href="{{ '/' | absolute_url }}"><img class="large bordered image" src="{{ 'img/logo.svg' | relative_url }}"></a>
-    <div class="content">
-      California Privacy Directory
-    </div>
-  </h2>
-</div>
+{% include_relative index.html %}
+
 <div class="ui active intro tab" data-tab="introduction">
   <div class="ui main container">
     <div class="ui padded aligned content segment">
