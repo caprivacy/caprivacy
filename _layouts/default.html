@@ -52,8 +52,8 @@
       integrity="sha384-vQPhfJdJkfTCHP7ouiqoAojjcDFuU346yP8z/pRpSn0xsWOfkMd+DkNmxns9jy4l"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="/css/base.css" />
-    <link rel="stylesheet" href="/css/corner.css" />
+    <link rel="stylesheet" href="{{ 'css/base.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ 'css/corner.css' | relative_url }}" />
   </head>
 
   <body>
@@ -138,6 +138,9 @@
       integrity="sha256-qcLR00zq6pJk4je3MLgAri8Nn+ZumUlXgTKR2H/xCY0="
       crossorigin="anonymous"
     ></script>
-    <script src="js/app.js" type="text/javascript"></script>
+    <script
+      src="{{ 'js/app.js' | relative_url }}"
+      type="text/javascript"
+    ></script>
   </body>
 </html>
