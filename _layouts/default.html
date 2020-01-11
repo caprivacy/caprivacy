@@ -12,15 +12,15 @@
     />
     <meta name="author" content="{{ site.author }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/png" href="/img/logo.svg" />
+    <link rel="icon" type="image/png" href="{{ 'img/logo.svg' | relative_url }}"" />
 
     <meta
       property="og:title"
       content="{{ page.title | default: site.title }}"
     />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="{{ site.url }}/{{ site.img }}" />
-    <meta property="og:url" content="{{ page.url | prepend: site.url }}" />
+    <meta property="og:image" content="{{ 'img/logo.svg' | relative_url }}" />
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
     <meta
       property="og:description"
       content="{{ page.description | default: site.description }}"
