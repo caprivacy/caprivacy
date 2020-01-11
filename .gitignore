@@ -1,0 +1,11 @@
+_site/
+tmp/
+*.DS_Store
+*.swp
+.idea/
+Thumbs.db
+ehthumbs.db
+Gemfile.lock
+.sass-cache
+.jekyll-metadata
+vendor/
