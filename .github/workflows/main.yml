@@ -15,4 +15,5 @@ jobs:
         ACTION_STATE_NAME: "_data/companies.csv"
     - name: Check Sort
       uses: jcblw/bash@master
-      args: ["tail -n +2 _data/companies.csv | sort -f --field-separator=',' --key=1 --check"]
+      with:
+        args: ["tail -n +2 _data/companies.csv | sort -f --field-separator=',' --key=1 --check"]
