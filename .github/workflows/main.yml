@@ -4,9 +4,7 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v1
     - name: Run csv-lint
@@ -14,7 +12,4 @@ jobs:
       env:
         ACTION_STATE_NAME: "_data/companies.csv"
     - name: Check Sort
-      uses: jcblw/bash@master
-      with:
-        args: |2
-          ["tail -n +2 _data/companies.csv | sort -f --field-separator=',' --key=1 --check"]
+      run: tail -n +2 _data/companies.csv | sort -f --field-separator=',' --key=1 --check
